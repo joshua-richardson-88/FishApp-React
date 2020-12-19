@@ -8,6 +8,7 @@ export default function Icon(props) {
       aria-label={props.ariaLabel}
       onMouseEnter={props.onMouseEnter}
       onMouseLeave={props.onMouseLeave}
+      data-testid='icon'
     >
       {props.type}
     </span>

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Atoms - Icon Test matches the snapshot 1`] = `
+<DocumentFragment>
+  <span
+    aria-label="a"
+    class="fish-icon"
+    data-testid="icon"
+    role="img"
+  >
+    foo
+  </span>
+</DocumentFragment>
+`;
